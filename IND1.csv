@@ -1,0 +1,6 @@
+cust_ID,Name,Sex,Open_date,Consult_dt,VAC_ID,Dr_Name,State,Country,DOB,Active
+3,Sunil,M,23-11-2016,29-11-2016,MVX,Reddy,KA,IND,16-08-1999,No
+7,Arnav,M,06-06-2019,15-06-2019,MXV,Reddy,MH,IND,04-02-2001,Yes
+9,Garry,M,07-06-2020,14-06-2020,MVX,Reddy,MH,IND,13-10-2000,Yes
+13,Vikas,M,13-10-2019,20-10-2019,MCX,Reddy,RA,IND,23-10-2000,Yes
+19,Samiksha,F,29-12-2020,05-01-2021,MCV,Reddy,DL,IND,27-08-2000,No
